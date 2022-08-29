@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bach Vu
-- 🌱 I’m a Sophomore majoring in Computer Science at Drexel University
+- 🌱 I’m a Junior majoring in Computer Science at Drexel University
 - 👀 I’m currently interested in Web Developing
 - 📫 Please reach out to me at bv88@drexel.edu
 
