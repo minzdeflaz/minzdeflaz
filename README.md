@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bach Vu
-- 🌱 I’m a Junior majoring in Computer Science at Drexel University
-- 👀 I’m currently interested in Web Developing
-- 📫 Please reach out to me at bv88@drexel.edu
+- 🌱 I’m a Senior majoring in Computer Science at Drexel University
+- 📫 Please reach out to me at minhbachvu@gmail.com
 
 _"The ultimate goal of my life is to become a better version of my yesterday self!"_
 <!---
